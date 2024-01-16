@@ -35,10 +35,10 @@ Note: you will need to install twarc, tqdm, and run twarc configure from the com
 
 For more details please check:
 
-Reference: Developer Account Twitter: https://developer.twitter.com/en
-Documentation Twitter API v2: https://developer.twitter.com/en/docs
-Documentation Tweepy: https://www.tweepy.org/
-Reference Hydration: https://github.com/sjgiorgi/blm_twitter_corpus/blob/master/hydrate.py
+- Reference: Developer Account Twitter: https://developer.twitter.com/en
+- Documentation Twitter API v2: https://developer.twitter.com/en/docs
+- Documentation Tweepy: https://www.tweepy.org/
+- Reference Hydration: https://github.com/sjgiorgi/blm_twitter_corpus/blob/master/hydrate.py
 
 ## Sample Result:
 
